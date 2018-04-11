@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6e240b8-1bc7-4cc2-9aa9-5215aae73e4c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/flutter_new_app.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.packages" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/aot/App.framework/App" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/aot/gen_snapshot.d" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/aot/kDartIsolateSnapshotData" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/aot/kDartIsolateSnapshotData.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/aot/kDartIsolateSnapshotData.o" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/aot/kDartVmSnapshotData" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/aot/kDartVmSnapshotData.c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/aot/kDartVmSnapshotData.o" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/aot/snapshot.d" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/aot/snapshot.d.fingerprint" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppFrameworkInfo.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon20x20@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon20x20@2x~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon20x20@3x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon20x20~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon29x29.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon29x29@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon29x29@2x~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon29x29@3x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon29x29~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon40x40@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon40x40@2x~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon40x40@3x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon40x40~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon60x60@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon60x60@3x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon76x76@2x~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon76x76~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/AppIcon83.5x83.5@2x~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Assets.car" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Base.lproj/Main.storyboardc/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Debug.xcconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/App" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/Flutter.framework/Flutter" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/Flutter.framework/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/Flutter.framework/icudtl.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftCore.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftCoreAudio.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftCoreFoundation.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftCoreGraphics.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftCoreImage.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftCoreMedia.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftDarwin.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftDispatch.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftFoundation.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftMetal.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftObjectiveC.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftQuartzCore.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftUIKit.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Frameworks/libswiftos.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Generated.xcconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/PkgInfo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/Runner" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/_CodeSignature/CodeResources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/embedded.mobileprovision" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/flutter_assets/AssetManifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/flutter_assets/FontManifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/flutter_assets/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/flutter_assets/fonts/MaterialIcons-Regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/flutter_assets/snapshot_blob.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.app/libswiftRemoteMirror.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.swiftmodule/arm64.swiftdoc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Debug-iphoneos/Runner.swiftmodule/arm64.swiftmodule" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Runner.build/Debug-iphoneos/Runner.build/dgph" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/Runner.build/Release-iphoneos/Runner.build/dgph" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppFrameworkInfo.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon20x20@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon20x20@2x~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon20x20@3x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon20x20~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon29x29.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon29x29@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon29x29@2x~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon29x29@3x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon29x29~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon40x40@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon40x40@2x~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon40x40@3x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon40x40~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon60x60@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon60x60@3x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon76x76@2x~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon76x76~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/AppIcon83.5x83.5@2x~ipad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Assets.car" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Base.lproj/Main.storyboardc/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Debug.xcconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/App.framework/App" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/App.framework/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework/Flutter" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/Flutter.framework/icudtl.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftCore.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftCoreAudio.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftCoreFoundation.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftCoreGraphics.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftCoreImage.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftCoreMedia.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftDarwin.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftDispatch.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftFoundation.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftMetal.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftObjectiveC.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftQuartzCore.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftUIKit.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Frameworks/libswiftos.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Generated.xcconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/PkgInfo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/Runner" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/_CodeSignature/CodeResources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/embedded.mobileprovision" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/flutter_assets/AssetManifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/flutter_assets/FontManifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/flutter_assets/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/flutter_assets/fonts/MaterialIcons-Regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/flutter_assets/snapshot_blob.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/ios/iphoneos/Runner.app/libswiftRemoteMirror.dylib" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/snapshot_blob.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/snapshot_blob.bin.d" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/build/snapshot_blob.bin.d.fingerprint" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/App" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Flutter" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/Flutter.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterNavigationController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Info.plist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/Modules/module.modulemap" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Flutter.framework/icudtl.dat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/app.flx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_assets/AssetManifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_assets/FontManifest.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_assets/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_assets/fonts/MaterialIcons-Regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Flutter/flutter_assets/snapshot_blob.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ios/ServiceDefinitions.json" />
+      <change beforePath="$PROJECT_DIR$/lib/home.dart" afterPath="$PROJECT_DIR$/lib/home.dart" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" afterPath="$PROJECT_DIR$/pubspec.lock" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="material.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/flutter/packages/flutter/lib/material.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding>
+                <element signature="e#531#564#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/home.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/home.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1001" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flutter_new_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_new_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_new_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_new_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_new_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6e240b8-1bc7-4cc2-9aa9-5215aae73e4c" name="Default" comment="" />
+      <created>1523341787556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523341787556</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1001" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Dart Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.packages">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/flutter/packages/flutter/lib/material.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#531#564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/home.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

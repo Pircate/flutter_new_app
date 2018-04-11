@@ -28,30 +28,23 @@ class _HomeViewControllerState extends State<HomeViewController> {
         ],
       ),
       body: new ListView.builder(itemBuilder: (context, index) {
-        return new HomeListItem(
-          index: index,
-        );
+        return new HomeListItem();
       }),
     );
   }
 }
 
 class HomeListItem extends StatefulWidget {
-  HomeListItem({this.index});
-
-  int index = 0;
-
   @override
   State<StatefulWidget> createState() {
     // TODO: implement createState
-    return new HomeListItemState(index: index);
+    return new _HomeListItemState();
   }
 }
 
-class HomeListItemState extends State<HomeListItem> {
-  HomeListItemState({this.index});
+class _HomeListItemState extends State<HomeListItem> {
+  _HomeListItemState({this.index});
 
-  bool _selected = false;
   int index = 0;
 
   @override
@@ -64,13 +57,14 @@ class HomeListItemState extends State<HomeListItem> {
           new SizedBox(
             width: 15.0,
           ),
-          new Text('Name $index')
+          new Text('Name $index'),
+          new Divider(height: 0.5, color: Colors.black12,),
         ],
         mainAxisSize: MainAxisSize.max,
       ),
       height: 60.0,
       padding: new EdgeInsets.all(15.0),
-      decoration: new BoxDecoration(border: new Border.all(color: Colors.black26, width: 0.25)),
+//      decoration: new BoxDecoration(border: new Border.all(color: Colors.black26, width: 0.25)),
     );
   }
 }
