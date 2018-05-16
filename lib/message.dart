@@ -64,10 +64,10 @@ class _MessageViewControllerState extends State<MessageViewController> {
 
   void _handleSubmitted(String text) {
     if (text.isEmpty) {
-      final simple = new AlertDialog(
-        title: new Text('内容不能为空'),
-      );
-      showDialog(context: context, child: simple);
+      // final simple = new AlertDialog(
+      //   title: new Text('内容不能为空'),
+      // );
+      // showDialog(context: context, child: simple);
       return;
     }
     FocusScope.of(context).requestFocus(new FocusNode());
